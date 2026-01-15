@@ -1,4 +1,4 @@
-package com.example.CadastroAPI;
+package com.example.CadastroAPI.NInjas;
 
 import org.springframework.web.bind.annotation.*;
 
